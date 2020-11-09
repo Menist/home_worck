@@ -9,7 +9,6 @@ alert(string);
 string = 'new string';
 console.log(string);
 //
-zcxczxc
 // // task B
 // Создадим шесть переменных, в каждой из которых будет разных типов данных;
 // Выводим их в alert;
